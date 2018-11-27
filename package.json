@@ -60,7 +60,7 @@
     "azure-arm-website": "5.7.0",
     "body-parser": "1.18.3",
     "botbuilder": "^4.1.5",
-    "botbuilder-ai": "^4.1.5",
+    "botbuilder-ai": "^4.1.7",
     "botbuilder-azure": "^4.1.5",
     "botbuilder-choices": "^4.0.0-preview1.2",
     "botbuilder-dialogs": "^4.1.5",
