@@ -60,7 +60,7 @@
     "azure-arm-website": "5.7.0",
     "bluebird": "^3.5.3",
     "body-parser": "1.18.3",
-    "botbuilder": "^4.1.7",
+    "botbuilder": "^4.2.0",
     "botbuilder-ai": "^4.1.7",
     "botbuilder-azure": "^4.1.7",
     "botbuilder-choices": "^4.0.0-preview1.2",
